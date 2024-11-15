@@ -19,21 +19,6 @@ h2 {
 	font-weight: bold;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li a {
-    text-decoration: none;
-    color: #3498db;
-    font-weight: bold;
-}
-
-li a:hover {
-    color: #2980b9;
-}
-
 p {
     color: #5c5c5c;
     font-size: 0.9em;
